@@ -1,0 +1,2 @@
+replace this line with the MySQL user name
+replace this line with the MySQL password
